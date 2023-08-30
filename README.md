@@ -13,5 +13,5 @@
 https://github.com/modelscope/facechain
 
 ## Output
-![Screenshot 2023-08-30 2348561](https://github.com/camenduru/facechain-colab/assets/54370274/85023a99-9d74-42f4-b9e2-2d5fd3184764)
+![Screenshot 2023-08-31 012726](https://github.com/camenduru/facechain-colab/assets/54370274/4e4c772d-f86d-411e-8ee6-17d37866c592)
 ![Screenshot 2023-08-31 010232](https://github.com/camenduru/facechain-colab/assets/54370274/4ab5e631-7cc9-44fd-9f54-b27ed4a20782)
