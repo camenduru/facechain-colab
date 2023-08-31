@@ -9,6 +9,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/facechain-colab/blob/main/facechain_colab.ipynb) | facechain_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/facechain-colab/blob/main/facechain_en_colab.ipynb) | facechain_en_colab
 
+## Tutorial 
+
+Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800`
+
 ## Main Repo
 https://github.com/modelscope/facechain
 
