@@ -16,6 +16,9 @@ Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800`
 ## Main Repo
 https://github.com/modelscope/facechain
 
+## Paper
+https://arxiv.org/abs/2308.14256
+
 ## Output
 facechain_en_colab
 ![Screenshot 2023-08-31 012726](https://github.com/camenduru/facechain-colab/assets/54370274/4e4c772d-f86d-411e-8ee6-17d37866c592)
