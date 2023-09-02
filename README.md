@@ -11,8 +11,13 @@
 
 ## Tutorial 
 
-Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800` <br />
-Base models for webui: https://huggingface.co/camenduru/facechain/tree/main/ckpt <br />
+- Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800` <br />
+- Base models for webui: https://huggingface.co/camenduru/facechain/tree/main/ckpt <br />
+- WebUI Converter Thanks to
+  - https://github.com/harrywang/finetune-sd/blob/main/convert-to-safetensors.py ❤
+  - https://github.com/huggingface/diffusers/issues/2326 ❤
+  - https://github.com/ignacfetser ❤
+  - frontload for the suggestion ❤
 
 ## Main Repo
 https://github.com/modelscope/facechain
