@@ -11,7 +11,8 @@
 
 ## Tutorial 
 
-Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800`
+Trained LoRA Path: `/tmp/qw/personalization_lora/checkpoint-800` <br />
+Base models for webui: https://huggingface.co/camenduru/facechain/tree/main/ckpt <br />
 
 ## Main Repo
 https://github.com/modelscope/facechain
